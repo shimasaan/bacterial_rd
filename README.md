@@ -1,4 +1,4 @@
-# Source codes and experimental data for Commun. Phys. XX, YYYYYY (2021)
+# Source codes and experimental data for Commun. Phys. 4, 238 (2021)
 #### Contact: Takuro Shimaya
 #### Please feel free to ask the author for more detailed information.
 #### mail: t.shimaya <at> noneq.phys.s.u-tokyo.ac.jp
